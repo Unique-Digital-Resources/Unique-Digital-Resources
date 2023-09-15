@@ -4,8 +4,8 @@
 
 # About Me
 - 👋 Hi, I’m Abdo Mahmoud @Unique-Digital-Resources
--I like everything related to modern computer technologies and smart machines since early adolescence
--I'm Writer, programmer, graphic interface designer and logo designer
+- I like everything related to modern computer technologies and smart machines since early adolescence
+- I'm Writer, programmer, graphic interface designer and logo designer
 
 <!---
 Unique-Digital-Resources/Unique-Digital-Resources is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
